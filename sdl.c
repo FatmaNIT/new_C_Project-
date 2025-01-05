@@ -108,6 +108,6 @@ int main (int argc, char *argv[]){
 
     
     visualize(x, y, n, m, c);
-//naoufel  fffffff 
+//naoufel  fffffff cccc
     return 0;
 }
